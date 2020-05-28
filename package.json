@@ -1,0 +1,17 @@
+{
+  "name": "helio-app-authentication",
+  "version": "0.1.0",
+  "author": "J.R. Mathis <https://github.com/mathiscode>",
+  "license": "MIT",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mailgun-js": "^0.22.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^8.0.0"
+  }
+}
